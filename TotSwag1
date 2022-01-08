@@ -1,2 +1,2 @@
-if (a == "TwitchName"){"Custom greeting for relevant user".}
+if (a == "TwitchName"){"Custom greeting for relevant user"}
 else {"Generic greeting."}
