@@ -1,1 +1,4 @@
-if (1 == 1){"yes"}
+$(eval a=”$(user)” 
+if (a == "TwitchName"){"Custom greeting for relevant user".}
+else if (a == "OtherTwitchName"){"Other custom greeting for relevant user".}
+else {"Generic greeting."}
