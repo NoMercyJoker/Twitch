@@ -1,2 +1,2 @@
 if (a == "PoopMonster"){"Custom greeting for relevant user"}
-else {"Generic greeting"}
+else {"Greeting"}
