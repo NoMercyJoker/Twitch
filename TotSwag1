@@ -1,0 +1,4 @@
+if (a == "AgentKnow"){"The World's greatest Mod is here".}
+else if (a == "JalonTheGinger"){"The Ginger is bready".}
+else if (a == "Totswag"){"This command is talored for the users in the list".}
+else {"It's nice to meet you. Stay a while."}
