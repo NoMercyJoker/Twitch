@@ -1,1 +1,1 @@
-if (user == user){"a"}
+if ($(user) == $(user)){"a"}
