@@ -1,2 +1,1 @@
-eval(a = "1"
-if (a == "1"){"true"})
+if (a == "TwitchName"){"Custom greeting for relevant user".} else if (a == "OtherTwitchName"){"Other custom greeting for relevant user".} else {"Generic greeting."}
