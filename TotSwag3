@@ -1,3 +1,3 @@
-if "$(query)" == "bread" && (a == oven){"Oven makes bread more powerful!"}
-if "$(query)" == "person" && (a == oven){"Person frears oven!"}
-if "$(query)" == "bread" && (a == person){"Person eats Bread!"}
+if "$(query)" == "bread" && (a == "oven"){"Oven makes bread more powerful!"}
+if "$(query)" == "person" && (a == "oven"){"Person frears oven!"}
+if "$(query)" == "bread" && (a == "person"){"Person eats Bread!"}
