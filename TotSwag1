@@ -1,2 +1,2 @@
-if (a == "PoopMonster"){"Custom greeting for relevant user"}
-else {"Greeting"}
+if (a == "Totswag"){"It works!"}
+else {"It does work"}
