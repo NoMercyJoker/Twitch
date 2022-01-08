@@ -1,3 +1,2 @@
 if (a == "Totswag"){"It works!"}
-else if (a == "AgentKnow"){It is ready!}
 else {"It does not work"}
