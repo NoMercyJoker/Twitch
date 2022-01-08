@@ -1,1 +1,2 @@
-if (a == "AgentKnow"){"It works!"}
+if (a == "Totswag"){"It works!"}
+else {"It works still"}
