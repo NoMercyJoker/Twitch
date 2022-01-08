@@ -1,2 +1,2 @@
-a = 1 
-if (a == 1){"true";}
+eval(a = 1 
+if (a == 1){"true";})
