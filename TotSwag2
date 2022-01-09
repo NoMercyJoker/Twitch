@@ -1,4 +1,4 @@
-r = Math.floor(Math.random() * 3)
+r = Math.floor(Math.random() * 3);
 
 if (r == 0){"Nightbot chooses bread"} 
 if (r == 1){"Nightbot chooses oven"} 
