@@ -9,3 +9,4 @@ else if (q == "oven" && r == 2){"Nightbot chooses bread and wins"}
 else if (q == "person" && r == 0){"Nightbot chooses person there is a tie"}
 else if (q == "person" && r == 1){"Nightbot chooses bread and is defeated"}
 else if (q == "person" && r == 2){"Nightbot chooses oven and wins"}
+else {"You must choose: bread, oven, or person"}
