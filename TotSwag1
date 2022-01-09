@@ -1,4 +1,5 @@
-if (a == "Totswag"){""}
+if (a == "Totswag"){"The streamer has activated the total amount of swag!"}
 else if (a == "AgentKnow"){"The world's greatest Mod is here!"}
 else if (a == "JalonTheGinger"){"Our favorite ginger has officially arrived!"}
+else if (a == "Itsherbyhancock"){"The least suspicious lurker is here!"}
 else {"Hey friend, welcome!"}
