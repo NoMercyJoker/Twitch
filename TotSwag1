@@ -3,5 +3,5 @@ else if (a == "AgentKnow"){"The world's greatest Mod is here!"}
 else if (a == "JalonTheGinger"){"My friends are my power!"}
 else if (a == "Itsherbyhancock"){"The least suspicious lurker is here!"}
 else if (a == "swimmm2"){"You are the swimming VIP!"}
-else if (a == "Reaperhunt1"){"Your outlook is not grim... Reaper B)"}
+else if (a == "Reaperhunt1"){"Your outlook is not grim... Reaper B"}
 else {"Hey friend, welcome!"}
