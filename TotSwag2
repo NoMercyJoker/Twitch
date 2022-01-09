@@ -2,4 +2,4 @@ r = Math.floor(Math.random() * 3);
 
 if (r == 0){"Nightbot chooses bread... there is a tie."}
 if (r == 1){"Nightbot chooses oven... Nightbot is defeated."}
-if (r == 2){"Nightbot chooses person... Nightbot is victorious"}
+if (r == 2){"Nightbot chooses person... Nightbot is victorious."}
