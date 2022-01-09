@@ -1,1 +1,9 @@
-Math.floor(Math.random() * 10)
+r = Math.floor(Math.random() * 3)
+
+if (r == 0){"Nightbot chooses bread"} 
+if (r == 1){"Nightbot chooses oven"} 
+if (r == 2){"Nightbot chooses person"} 
+
+if (q == "bread") && (r == 0){"there is a tie"}
+if (q == "bread") && (r == 1){(u) "is defeated"}
+if (q == "bread") && (r == 2){"Nightbot wins"}
