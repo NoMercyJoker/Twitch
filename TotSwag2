@@ -1,1 +1,1 @@
-if "$(query)" == "bread"{"Yes it is bread"}
+if (b == "bread"){"Yes it is bread"}
