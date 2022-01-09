@@ -8,4 +8,4 @@ else if (q == "oven" && r == 0){"Nightbot chooses oven... there is a tie"}
 else if (q == "oven" && r == 1){"Nightbot chooses person and is defeated"}
 else if (q == "oven" && r == 2){"Nightbot chooses bread and wins"}
 
-else {"You must choose: bread, oven, or person"}
+else {"You must choose: bread, oven, or person. It is case sensitive."}
