@@ -1,1 +1,1 @@
-if (b == "bread"){"Yes it is bread"}
+if (b == "bread"){c}
