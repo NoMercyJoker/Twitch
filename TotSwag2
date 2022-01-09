@@ -1,4 +1,4 @@
-r = Math.floor(Math.random() * 3);
+r = Math.floor(Math.random() * 3)
 
 if (q == "bread" && r == 0){"Nightbot chooses bread, there is a tie"}
 else if (q == "bread" && r == 1){"Nightbot chooses oven and is defeated"}
