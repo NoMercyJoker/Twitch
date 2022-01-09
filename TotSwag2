@@ -1,2 +1,1 @@
-if (("$(query)" == "bread") && (a == "oven")){"Oven makes bread more powerful!"}
-else {"It works kinda!"}
+if "$(query)" == "bread"{"Yes it is bread"}
