@@ -1,7 +1,7 @@
 r = Math.floor(Math.random() * 3);
 
-if (q == "bread" && r == 0){"Nightbot chooses bread... there is a tie"}
-else if (q == "bread" && r == 1){"Nightbot chooses oven and is defeated"}
-else if (q == "bread" && r == 2){"Nightbot chooses person and wins"}
+if (q == "bread" && r == 0){(u) " chooses bread, Nightbot chooses bread... there is a tie"}
+else if (q == "bread" && r == 1)(u) " chooses bread, {"Nightbot chooses oven and is defeated"}
+else if (q == "bread" && r == 2){(u) " chooses bread, "Nightbot chooses person and wins"}
 
 else {"You must choose: bread, oven, or person"}
