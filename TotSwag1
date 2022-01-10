@@ -2,4 +2,4 @@ if (a == "JalonTheGinger"){"My friends are my power!"}
 else if (a == "Itsherbyhancock"){"The least suspicious lurker is here!"}
 else if (a == "swimmm2"){"You are the swimming VIP!"}
 else if (a == "Reaperhunt1"){"Your outlook is not grim... Reaper."}
-else { a = a; $(urlfetch https://raw.githubusercontent.com/NoMercyJoker/Twitch/main/TotSwag1.1 )}
+else {$(urlfetch https://raw.githubusercontent.com/NoMercyJoker/Twitch/main/TotSwag1.1 )}
